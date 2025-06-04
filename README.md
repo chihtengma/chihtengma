@@ -1,4 +1,4 @@
-# Hi there, I'm Chi-Hten Ma! 👋
+# Hi there, I'm Chihteng Ma! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Learning+%26+Building+Every+Day;JavaScript+%7C+TypeScript+%7C+Python;Welcome+to+my+GitHub!" alt="Typing SVG" />
