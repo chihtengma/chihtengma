@@ -1,7 +1,7 @@
-# Hi there, I'm Chihteng Ma! 👋
+# Hi there, I'm Chi-Hten Ma! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Learning+%26+Building+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Learning+%26+Building+Every+Day;JavaScript+%7C+TypeScript+%7C+Python;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -20,8 +20,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -46,15 +46,15 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chihtengma&show_icons=true&theme=tokyonight&hide_border=true" alt="Chi-Hten's GitHub Stats" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihtengma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chihtengma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chihtengma&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
-</div>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chihtengma/chihtengma/output/github-contribution-grid-snake-dark.svg">
@@ -86,9 +86,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chihtengma/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chihteng-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chihtengma416@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
