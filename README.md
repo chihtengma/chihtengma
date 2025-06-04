@@ -78,10 +78,7 @@
 
 | 🎯 Focus Area | 📋 Details | 🚀 Progress |
 |:---:|:---:|:---:|
-| **100 Days of Code** | Building Python skills through hands-on projects | ![40%](https://progress-bar.dev/40) |
-| **Full-Stack Development** | Creating end-to-end web applications | ![75%](https://progress-bar.dev/75) |
-| **Modern Web Tech** | Exploring React, Next.js, and TypeScript | ![80%](https://progress-bar.dev/80) |
-| **Responsive Design** | Building mobile-first, accessible UIs | ![70%](https://progress-bar.dev/70) |
+| **100 Days of Code** | Building Python skills through hands-on projects | ![40%](https://progress-bar.dev/50) |
 
 </div>
 
