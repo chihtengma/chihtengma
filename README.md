@@ -104,5 +104,5 @@
 </div>
 
 <div align="center">
-  <i>⭐️ From [chihtengma](https://github.com/chihtengma) with ❤️</i>
+  <i>⭐️ From chihtengma(https://github.com/chihtengma) with ❤️</i>
 </div>
