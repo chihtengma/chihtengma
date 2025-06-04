@@ -46,13 +46,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chihtengma&show_icons=true&theme=tokyonight&hide_border=true" alt="Chi-Hten's GitHub Stats" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihtengma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chihtengma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chihtengma&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
 </div>
 
 ## 🌟 Featured Projects
