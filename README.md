@@ -1,4 +1,4 @@
-# Hi there, I'm ChihTeng Ma! 👋
+# Hi there, I'm Chihteng Ma! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Learning+%26+Building+Every+Day;JavaScript+%7C+TypeScript+%7C+Python;Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -44,15 +44,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chihtengma&show_icons=true&theme=tokyonight&hide_border=true" alt="Chi-Hten's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chihtengma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chihtengma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihtengma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chihtengma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihtengma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -77,10 +74,16 @@
 
 ## 🎯 Current Focus
 
-- 📚 **100 Days of Code**: Building Python skills through hands-on projects
-- 🔥 **Full-Stack Development**: Creating end-to-end web applications
-- 🌐 **Modern Web Tech**: Exploring the latest in React, Next.js, and TypeScript
-- 📱 **Responsive Design**: Building mobile-first, accessible user interfaces
+<div align="center">
+
+| 🎯 Focus Area | 📋 Details | 🚀 Progress |
+|:---:|:---:|:---:|
+| **100 Days of Code** | Building Python skills through hands-on projects | ![40%](https://progress-bar.dev/40) |
+| **Full-Stack Development** | Creating end-to-end web applications | ![75%](https://progress-bar.dev/75) |
+| **Modern Web Tech** | Exploring React, Next.js, and TypeScript | ![80%](https://progress-bar.dev/80) |
+| **Responsive Design** | Building mobile-first, accessible UIs | ![70%](https://progress-bar.dev/70) |
+
+</div>
 
 ## 📫 Let's Connect!
 
@@ -95,7 +98,12 @@
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=chihtengma&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/chihtengma?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
 </div>
 
 <div align="center">
