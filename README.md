@@ -78,7 +78,7 @@
 
 | 🎯 Focus Area | 📋 Details | 🚀 Progress |
 |:---:|:---:|:---:|
-| **100 Days of Code** | Building Python skills through hands-on projects | ![40%](https://progress-bar.dev/50) |
+| **100 Days of Code** | Building Python skills through hands-on projects | ![40%]((https://img.shields.io/badge/Progress-50%25-orange?style=flat-square)) |
 
 </div>
 
