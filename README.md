@@ -64,7 +64,7 @@
 
 <div align="center">
 
-[![MeowMarket](https://github-readme-stats.vercel.app/api/pin/?username=jerryc-jpg&repo=MeowMarket&theme=tokyonight&hide_border=true)](https://github.com/jerryc-jpg/MeowMarket)
+[![Fluxx](https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=fluxx&theme=tokyonight&hide_border=true)](https://github.com/chihtengma/Fluxx)
 [![NASA Project](https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=NASA-PROJECT&theme=tokyonight&hide_border=true)](https://github.com/chihtengma/NASA-PROJECT)
 
 [![Event Platform](https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=event-platform&theme=tokyonight&hide_border=true)](https://github.com/chihtengma/event-platform)
