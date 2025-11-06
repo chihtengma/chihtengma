@@ -67,8 +67,8 @@
 [![Fluxx](https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=fluxx&theme=tokyonight&hide_border=true)](https://github.com/chihtengma/Fluxx)
 [![Portfolio V2](https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=portfolio_v2&theme=tokyonight&hide_border=true)](https://github.com/chihtengma/portfolio_v2)
 
-[![Event Platform](https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=event-platform&theme=tokyonight&hide_border=true)](https://github.com/chihtengma/event-platform)
-[![Portfolio 2025](https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=Portfolio_2025&theme=tokyonight&hide_border=true)](https://github.com/chihtengma/Portfolio_2025)
+[![Event Platform](https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=trackwise&theme=tokyonight&hide_border=true)](https://github.com/chihtengma/trackwise)
+[![Portfolio 2025](https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=siftly&theme=tokyonight&hide_border=true)](https://github.com/chihtengma/siftly)
 
 </div>
 
