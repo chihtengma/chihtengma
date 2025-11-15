@@ -1,56 +1,236 @@
 # Hi there, I'm Chihteng Ma! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Learning+%26+Building+Every+Day;JavaScript+%7C+TypeScript+%7C+Python;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chihteng%20Ma&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+%7C+Web+%7C+Backend;Building+Innovative+Solutions;Always+Learning+%26+Growing+%F0%9F%8C%B1;Open+for+Collaboration!" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-chihtengma.dev-FF5722?style=for-the-badge)](https://chihtengma.dev/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chihtengma/)
+  [![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chihtengma416@gmail.com)
+  
+</div>
+
+<br/>
 
 ## 🚀 About Me
 
-- 🎓 Currently mastering full-stack development
-- 🌱 Learning Python through **100 Days of Code** bootcamp
-- 💼 Building projects with **JavaScript**, **TypeScript**, and modern frameworks
-- 🎯 Passionate about creating user-friendly web applications
-- 🔭 Always exploring new technologies and best practices
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-## 🛠️ Tech Stack
+```typescript
+const chihteng = {
+    role: "Full Stack Developer",
+    expertise: ["Web", "Mobile", "Backend"],
+    currentProject: "Fomode - Anti-Procrastination App",
+    collaboration: "Education SaaS Platform",
+    techStack: {
+        mobile: ["Flutter", "React Native", "Dart"],
+        web: ["React", "Next.js", "Angular", "TypeScript"],
+        backend: ["FastAPI", "Django", "Node.js", "GraphQL"],
+        database: ["PostgreSQL", "Redis", "MongoDB"],
+        devOps: ["Docker", "Kubernetes", "AWS", "Linux"]
+    },
+    currentFocus: "Building scalable cross-platform applications",
+    openTo: "Collaboration opportunities and innovative projects"
+};
+```
+
+<br clear="right"/>
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+## 🚀 About Me
 
 </div>
 
-## 📈 GitHub Stats
+<details open>
+<summary><h2>💼 What I'm Working On</h2></summary>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chihtengma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chihtengma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+| 🎯 Project | 📋 Description | 💻 Tech Stack | 🚀 Status |
+|:---|:---|:---|:---:|
+| **🎯 Fomode** | Anti-procrastination mobile app with smart intervention | Flutter • FastAPI • PostgreSQL | ![Active](https://img.shields.io/badge/●-Active-success) |
+| **📚 EduSaaS** | Educational technology platform (Team collaboration) | React • Node.js • GraphQL | ![Progress](https://img.shields.io/badge/●-In_Progress-blue) |
+
+</div>
+
+</details>
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihtengma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+<br>Dart
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+<br>Angular
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br>Flutter
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br>Django
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+<br>GraphQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+<br>Spring
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React Native" />
+<br>React Native
+</td>
+</tr>
+
+</table>
+
 </div>
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+</div>
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chihtengma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=2E96F7&text_color=ffffff&icon_color=2E96F7&title_color=2E96F7" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chihtengma&theme=tokyonight&hide_border=true&ring=2E96F7&fire=2E96F7&currStreakLabel=2E96F7" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihtengma&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=2E96F7" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=chihtengma&theme=tokyo-night&hide_border=true&color=2E96F7&line=2E96F7&point=ffffff" alt="Contribution Graph" />
+</div>
+
+<br/>
 
 <div align="center">
   <picture>
@@ -60,49 +240,68 @@
   </picture>
 </div>
 
+<div align="center">
+
 ## 🌟 Featured Projects
 
+</div>
+
 <div align="center">
 
-[![Fluxx](https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=fluxx&theme=tokyonight&hide_border=true)](https://github.com/chihtengma/Fluxx)
-[![Portfolio V2](https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=portfolio_v2&theme=tokyonight&hide_border=true)](https://github.com/chihtengma/portfolio_v2)
+<a href="https://github.com/chihtengma/Fluxx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=fluxx&theme=tokyonight&hide_border=true&title_color=2E96F7&icon_color=2E96F7" />
+</a>
+<a href="https://github.com/chihtengma/portfolio_v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=portfolio_v2&theme=tokyonight&hide_border=true&title_color=2E96F7&icon_color=2E96F7" />
+</a>
 
-[![Event Platform](https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=trackwise&theme=tokyonight&hide_border=true)](https://github.com/chihtengma/trackwise)
-[![Portfolio 2025](https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=siftly&theme=tokyonight&hide_border=true)](https://github.com/chihtengma/siftly)
+<a href="https://github.com/chihtengma/trackwise">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=trackwise&theme=tokyonight&hide_border=true&title_color=2E96F7&icon_color=2E96F7" />
+</a>
+<a href="https://github.com/chihtengma/siftly">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chihtengma&repo=siftly&theme=tokyonight&hide_border=true&title_color=2E96F7&icon_color=2E96F7" />
+</a>
 
 </div>
 
-## 🎯 Current Focus
-
 <div align="center">
 
-| 🎯 Focus Area | 📋 Details | 🚀 Progress |
-|:---:|:---:|:---:|
-| **100 Days of Code** | Building Python skills through hands-on projects | ![40%](https://img.shields.io/badge/Progress-40%25-orange?style=flat-square) |
+## 🤝 Let's Build Something Together!
 
 </div>
 
-## 📫 Let's Connect!
-
 <div align="center">
+  
+I'm always excited to collaborate on innovative projects! Whether it's:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chihtengma/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chihtengma.dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chihtengma416@gmail.com)
+🚀 **Open Source Projects** • 💡 **Startup Ideas** • 🎯 **Freelance Work** • 🌐 **Community Building**
+
+**Feel free to reach out!**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chihtengma/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chihtengma.dev/)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chihtengma416@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chihtengma&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/chihtengma?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-</div>
-
-<div align="center">
-  <i>⭐️ From chihtengma with ❤️</i>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  
+  <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=chihtengma&color=2E96F7&style=for-the-badge&label=Profile+Views)
+  ![Followers](https://img.shields.io/github/followers/chihtengma?label=Followers&style=for-the-badge&color=2E96F7&logo=github)
+  ![Stars](https://img.shields.io/github/stars/chihtengma?label=Stars&style=for-the-badge&color=2E96F7&logo=github)
+  
+  <br/>
+  
+  **⭐️ From [chihtengma](https://github.com/chihtengma) with ❤️**
+  
+  *Thanks for visiting! If you like what you see, drop a ⭐ on my repos!*
+  
 </div>
